@@ -1,0 +1,9 @@
+name: dev.zotware.plugins.tcds
+version: '${project.version}'
+main: dev.zotware.plugins.tcds.TokenCurrency
+api-version: 1.13
+depend: [ DisplayShops, TokenEnchant ]
+authors: [ XZot1K ]
+prefix: TokenCurrency-DS
+description: An addon for DisplayShops replacing economy handling with TokenEnchant tokens.
+website: https://www.zotware.dev/
